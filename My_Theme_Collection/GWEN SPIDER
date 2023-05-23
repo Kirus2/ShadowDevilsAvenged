@@ -1,0 +1,27 @@
+/**
+ * @name Gwen Spider
+ * @author Vivpam
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/50609-gwen-spider.html
+ * @authorLink https://vsthemes.org/user/Vivpam/
+ * @authorId 98937
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.05;
+    --messagetransparency: 0.15;
+    --guildchanneltransparency: 0.25;
+    --memberlistransparency: 0.6;
+    --accentcolor: 168,13,102;
+    --background: url("https://vsthemes.org/uploads/posts/2022-03/1647639463_thumb-1920-1035898.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
